@@ -1,0 +1,11 @@
+rspec_model_fg
+=====================
+
+This is simply an update of the stock RSpec Model generator that generates a
+FactoryGirl factory definition file instead of a fixtures file.
+
+Installing
+==========
+ 
+     script/plugin install git://github.com/jacqui/rspec_model_fg.git
+      
